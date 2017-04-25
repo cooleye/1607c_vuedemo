@@ -1,0 +1,9 @@
+{
+  "goods":[
+    {"id":0,"title":"牛奶","price":2,"number":0},
+    {"id":1,"title":"牛奶2","price":2.4,"number":0},
+    {"id":2,"title":"牛奶3","price":2.5,"number":0},
+    {"id":3,"title":"牛奶4","price":3,"number":0},
+    {"id":4,"title":"牛奶5","price":3.5,"number":0}
+  ]
+}
